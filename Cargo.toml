@@ -4,3 +4,13 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+add = { path = "add" }
+divide = { path = "divide" }
+multiply = { path = "multiply" }
+numbers = { path = "numbers" }
+square = { path = "square" }
+square_root = { path = "square_root" }
+subtract = { path = "subtract" }
+
+[workspace]
+members = ["add", "divide", "multiply", "numbers", "square", "square_root", "subtract"]

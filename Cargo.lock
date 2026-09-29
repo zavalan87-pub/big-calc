@@ -3,5 +3,42 @@
 version = 4
 
 [[package]]
+name = "add"
+version = "0.1.0"
+
+[[package]]
 name = "big-calc"
+version = "0.1.0"
+dependencies = [
+ "add",
+ "divide",
+ "multiply",
+ "numbers",
+ "square",
+ "square_root",
+ "subtract",
+]
+
+[[package]]
+name = "divide"
+version = "0.1.0"
+
+[[package]]
+name = "multiply"
+version = "0.1.0"
+
+[[package]]
+name = "numbers"
+version = "0.1.0"
+
+[[package]]
+name = "square"
+version = "0.1.0"
+
+[[package]]
+name = "square_root"
+version = "0.1.0"
+
+[[package]]
+name = "subtract"
 version = "0.1.0"
