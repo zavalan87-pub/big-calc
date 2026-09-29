@@ -1,7 +1,0 @@
-[package]
-name = "multiply_8"
-version = "0.1.0"
-edition = "2024"
-
-[lib]
-path = "multiply_8.rs"

@@ -1,7 +1,0 @@
-[package]
-name = "divide_6"
-version = "0.1.0"
-edition = "2024"
-
-[lib]
-path = "divide_6.rs"

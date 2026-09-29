@@ -1,7 +1,0 @@
-[package]
-name = "add_5"
-version = "0.1.0"
-edition = "2024"
-
-[lib]
-path = "add_5.rs"
