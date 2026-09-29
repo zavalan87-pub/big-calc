@@ -1,0 +1,7 @@
+[package]
+name = "square_root_6"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+path = "square_root_6.rs"

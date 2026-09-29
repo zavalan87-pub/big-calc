@@ -3,42 +3,282 @@
 version = 4
 
 [[package]]
-name = "add"
+name = "add_1"
+version = "0.1.0"
+
+[[package]]
+name = "add_2"
+version = "0.1.0"
+
+[[package]]
+name = "add_3"
+version = "0.1.0"
+
+[[package]]
+name = "add_4"
+version = "0.1.0"
+
+[[package]]
+name = "add_5"
+version = "0.1.0"
+
+[[package]]
+name = "add_6"
+version = "0.1.0"
+
+[[package]]
+name = "add_7"
+version = "0.1.0"
+
+[[package]]
+name = "add_8"
 version = "0.1.0"
 
 [[package]]
 name = "big-calc"
 version = "0.1.0"
 dependencies = [
- "add",
- "divide",
- "multiply",
- "numbers",
- "square",
- "square_root",
- "subtract",
+ "add_1",
+ "add_2",
+ "add_3",
+ "add_4",
+ "add_5",
+ "add_6",
+ "add_7",
+ "add_8",
+ "divide_1",
+ "divide_2",
+ "divide_3",
+ "divide_4",
+ "divide_5",
+ "divide_6",
+ "divide_7",
+ "divide_8",
+ "multiply_1",
+ "multiply_2",
+ "multiply_3",
+ "multiply_4",
+ "multiply_5",
+ "multiply_6",
+ "multiply_7",
+ "multiply_8",
+ "numbers_1",
+ "numbers_2",
+ "numbers_3",
+ "numbers_4",
+ "numbers_5",
+ "numbers_6",
+ "numbers_7",
+ "square_1",
+ "square_2",
+ "square_3",
+ "square_4",
+ "square_5",
+ "square_6",
+ "square_7",
+ "square_8",
+ "square_root_1",
+ "square_root_2",
+ "square_root_3",
+ "square_root_4",
+ "square_root_5",
+ "square_root_6",
+ "square_root_7",
+ "square_root_8",
+ "subtract_1",
+ "subtract_2",
+ "subtract_3",
+ "subtract_4",
+ "subtract_5",
+ "subtract_6",
+ "subtract_7",
+ "subtract_8",
 ]
 
 [[package]]
-name = "divide"
+name = "divide_1"
 version = "0.1.0"
 
 [[package]]
-name = "multiply"
+name = "divide_2"
 version = "0.1.0"
 
 [[package]]
-name = "numbers"
+name = "divide_3"
 version = "0.1.0"
 
 [[package]]
-name = "square"
+name = "divide_4"
 version = "0.1.0"
 
 [[package]]
-name = "square_root"
+name = "divide_5"
 version = "0.1.0"
 
 [[package]]
-name = "subtract"
+name = "divide_6"
+version = "0.1.0"
+
+[[package]]
+name = "divide_7"
+version = "0.1.0"
+
+[[package]]
+name = "divide_8"
+version = "0.1.0"
+
+[[package]]
+name = "multiply_1"
+version = "0.1.0"
+
+[[package]]
+name = "multiply_2"
+version = "0.1.0"
+
+[[package]]
+name = "multiply_3"
+version = "0.1.0"
+
+[[package]]
+name = "multiply_4"
+version = "0.1.0"
+
+[[package]]
+name = "multiply_5"
+version = "0.1.0"
+
+[[package]]
+name = "multiply_6"
+version = "0.1.0"
+
+[[package]]
+name = "multiply_7"
+version = "0.1.0"
+
+[[package]]
+name = "multiply_8"
+version = "0.1.0"
+
+[[package]]
+name = "numbers_1"
+version = "0.1.0"
+
+[[package]]
+name = "numbers_2"
+version = "0.1.0"
+
+[[package]]
+name = "numbers_3"
+version = "0.1.0"
+
+[[package]]
+name = "numbers_4"
+version = "0.1.0"
+
+[[package]]
+name = "numbers_5"
+version = "0.1.0"
+
+[[package]]
+name = "numbers_6"
+version = "0.1.0"
+
+[[package]]
+name = "numbers_7"
+version = "0.1.0"
+
+[[package]]
+name = "square_1"
+version = "0.1.0"
+
+[[package]]
+name = "square_2"
+version = "0.1.0"
+
+[[package]]
+name = "square_3"
+version = "0.1.0"
+
+[[package]]
+name = "square_4"
+version = "0.1.0"
+
+[[package]]
+name = "square_5"
+version = "0.1.0"
+
+[[package]]
+name = "square_6"
+version = "0.1.0"
+
+[[package]]
+name = "square_7"
+version = "0.1.0"
+
+[[package]]
+name = "square_8"
+version = "0.1.0"
+
+[[package]]
+name = "square_root_1"
+version = "0.1.0"
+
+[[package]]
+name = "square_root_2"
+version = "0.1.0"
+
+[[package]]
+name = "square_root_3"
+version = "0.1.0"
+
+[[package]]
+name = "square_root_4"
+version = "0.1.0"
+
+[[package]]
+name = "square_root_5"
+version = "0.1.0"
+
+[[package]]
+name = "square_root_6"
+version = "0.1.0"
+
+[[package]]
+name = "square_root_7"
+version = "0.1.0"
+
+[[package]]
+name = "square_root_8"
+version = "0.1.0"
+
+[[package]]
+name = "subtract_1"
+version = "0.1.0"
+
+[[package]]
+name = "subtract_2"
+version = "0.1.0"
+
+[[package]]
+name = "subtract_3"
+version = "0.1.0"
+
+[[package]]
+name = "subtract_4"
+version = "0.1.0"
+
+[[package]]
+name = "subtract_5"
+version = "0.1.0"
+
+[[package]]
+name = "subtract_6"
+version = "0.1.0"
+
+[[package]]
+name = "subtract_7"
+version = "0.1.0"
+
+[[package]]
+name = "subtract_8"
 version = "0.1.0"

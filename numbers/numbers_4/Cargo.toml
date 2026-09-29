@@ -1,0 +1,7 @@
+[package]
+name = "numbers_4"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+path = "numbers_4.rs"

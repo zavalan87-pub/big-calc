@@ -1,0 +1,7 @@
+[package]
+name = "multiply_4"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+path = "multiply_4.rs"

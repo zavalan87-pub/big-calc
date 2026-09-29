@@ -1,0 +1,7 @@
+[package]
+name = "subtract_2"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+path = "subtract_2.rs"

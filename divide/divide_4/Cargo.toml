@@ -1,0 +1,7 @@
+[package]
+name = "divide_4"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+path = "divide_4.rs"
